@@ -1,6 +1,6 @@
-package com.Zamblek.Sngine;
+package com.dontka.Sngine;
 
 public class URL {
 
-    public static final  String url = "https://divyarajshaktawat0.wixsite.com/quickcare" ;
+    public static final  String url = "https://fylancer.blogspot.com/siteclient" ;
 }
