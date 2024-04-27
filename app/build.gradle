@@ -5,7 +5,7 @@ android {
     buildToolsVersion '26.0.2'
 
     defaultConfig {
-        applicationId "com.Zamblek.Sngine"
+        applicationId "com.dontka.Sngine"
         minSdkVersion 16
         targetSdkVersion 15
         versionCode 1
