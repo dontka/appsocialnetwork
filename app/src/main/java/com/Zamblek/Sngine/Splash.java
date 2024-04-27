@@ -1,4 +1,4 @@
-package com.Zamblek.Sngine;
+package com.dontka.Sngine;
 
 import android.app.Activity;
 import android.content.Intent;
